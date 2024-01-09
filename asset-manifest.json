@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Zentrades-Task4/static/css/main.4d6fa3b4.css",
+    "main.js": "/Zentrades-Task4/static/js/main.accccfad.js",
+    "static/media/smart-serve-logo.png": "/Zentrades-Task4/static/media/smart-serve-logo.2895858b1d35eb53c24b.png",
+    "index.html": "/Zentrades-Task4/index.html",
+    "main.4d6fa3b4.css.map": "/Zentrades-Task4/static/css/main.4d6fa3b4.css.map",
+    "main.accccfad.js.map": "/Zentrades-Task4/static/js/main.accccfad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d6fa3b4.css",
+    "static/js/main.accccfad.js"
+  ]
+}
